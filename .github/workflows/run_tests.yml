@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - '**' # Matches any branch
-  pull-request:
+  pull_request:
     branches:
       - main
 
